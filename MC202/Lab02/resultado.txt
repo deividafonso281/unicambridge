@@ -1,0 +1,32 @@
+0
+5
+8
+3
+10
+14
+19
+25
+32
+38
+29
+37
+45
+41
+26
+32
+39
+44
+40
+39
+47
+49
+52
+55
+59
+64
+70
+69
+74
+81
+Espera media para 30 clientes: 37.2 minutos
+Numero de clientes que esperaram mais que 10 minutos: 25
